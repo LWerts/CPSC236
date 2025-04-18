@@ -1,0 +1,139 @@
+What is the capital of France?
+A. Paris
+B. London
+C. Berlin
+D. Madrid
+Answer: A
+
+What is the capital of Japan?
+A. Beijing
+B. Seoul
+C. Tokyo
+D. Bangkok
+Answer: C
+
+What is the capital of Australia?
+A. Sydney
+B. Melbourne
+C. Canberra
+D. Brisbane
+Answer: C
+
+What is the capital of Brazil?
+A. Rio de Janeiro
+B. São Paulo
+C. Brasília
+D. Salvador
+Answer: C
+
+What is the capital of Canada?
+A. Toronto
+B. Ottawa
+C. Vancouver
+D. Montreal
+Answer: B
+
+What is the capital of Italy?
+A. Milan
+B. Venice
+C. Florence
+D. Rome
+Answer: D
+
+What is the capital of Russia?
+A. Moscow
+B. St. Petersburg
+C. Kiev
+D. Novosibirsk
+Answer: A
+
+What is the capital of Egypt?
+A. Cairo
+B. Alexandria
+C. Giza
+D. Luxor
+Answer: A
+
+What is the capital of India?
+A. Mumbai
+B. New Delhi
+C. Chennai
+D. Kolkata
+Answer: B
+
+What is the capital of the United Kingdom?
+A. Manchester
+B. Liverpool
+C. London
+D. Birmingham
+Answer: C
+
+What is the capital of Germany?
+A. Munich
+B. Frankfurt
+C. Berlin
+D. Hamburg
+Answer: C
+
+What is the capital of South Korea?
+A. Busan
+B. Seoul
+C. Incheon
+D. Daegu
+Answer: B
+
+What is the capital of China?
+A. Shanghai
+B. Guangzhou
+C. Beijing
+D. Shenzhen
+Answer: C
+
+What is the capital of Mexico?
+A. Guadalajara
+B. Cancun
+C. Tijuana
+D. Mexico City
+Answer: D
+
+What is the capital of Argentina?
+A. Córdoba
+B. Rosario
+C. Buenos Aires
+D. Mendoza
+Answer: C
+
+What is the capital of Spain?
+A. Barcelona
+B. Seville
+C. Madrid
+D. Valencia
+Answer: C
+
+What is the capital of Sweden?
+A. Gothenburg
+B. Stockholm
+C. Malmö
+D. Uppsala
+Answer: B
+
+What is the capital of Turkey?
+A. Istanbul
+B. Izmir
+C. Antalya
+D. Ankara
+Answer: D
+
+What is the capital of Thailand?
+A. Chiang Mai
+B. Phuket
+C. Bangkok
+D. Krabi
+Answer: C
+
+What is the capital of South Africa?
+A. Cape Town
+B. Pretoria
+C. Durban
+D. Johannesburg
+Answer: B
